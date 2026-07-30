@@ -26,3 +26,9 @@ Uma API REST desenvolvida com **FastAPI** para gerenciamento de livros. O projet
 | POST | `/livros` | Adiciona um livro |
 | PUT | `/livros/{id}` | Atualiza um livro |
 | DELETE | `/livros/{id}` | Remove um livro |
+
+## 👨‍💻 Autor
+
+**Wellington Hrafnir**
+
+Projeto desenvolvido para estudo e prática de desenvolvimento Back-End com FastAPI.
