@@ -29,6 +29,6 @@ Uma API REST desenvolvida com **FastAPI** para gerenciamento de livros. O projet
 
 ## 👨‍💻 Autor
 
-**Wellington Hrafnir**
+**Wellington Souza**
 
 Projeto desenvolvido para estudo e prática de desenvolvimento Back-End com FastAPI.
